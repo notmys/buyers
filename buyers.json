@@ -1,10 +1,5 @@
-return {
-    LifetimeUsers = {
-        "01xMYS",
-        "UserTwo"
-    },
-    Admins = {
-        "AdminGuy"
-    },
-    Expiration = "Never"
+LifetimeUsers = {
+    "01xMYS",
+    "",
+    ""
 }
